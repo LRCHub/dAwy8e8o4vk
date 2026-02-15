@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Either Way",
+  "base_artist": "IVE",
+  "createdAt": "2026-02-15T17:14:14.894401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Either Way",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/01_Either_Way_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Either Way",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/02_Either_Way_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Either Way I Lose",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/03_Either_Way_I_Lose_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Either Way",
+      "artist": "Sorority Noise",
+      "has_synced": true,
+      "path": "select/04_Either_Way_Sorority_Noise.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Either Way",
+      "artist": "Etro Anime",
+      "has_synced": true,
+      "path": "select/05_Either_Way_Etro_Anime.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Either Way",
+      "artist": "Living Colour",
+      "has_synced": false,
+      "path": "select/06_Either_Way_Living_Colour.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "either way",
+      "artist": "Yaya Bey",
+      "has_synced": true,
+      "path": "select/07_either_way_Yaya_Bey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Either Way",
+      "artist": "Chris Stapleton",
+      "has_synced": true,
+      "path": "select/08_Either_Way_Chris_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Either Way",
+      "artist": "Beta Radio",
+      "has_synced": true,
+      "path": "select/09_Either_Way_Beta_Radio.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Either Way I Loose",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/10_Either_Way_I_Loose_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Either Way I Lose - Mono",
+      "artist": "Gladys Knight & The Pips",
+      "has_synced": false,
+      "path": "select/11_Either_Way_I_Lose_-_Mono_Gladys_Knight_&_The_Pips.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Either Way I Lose",
+      "artist": "Gladys Knight And The Pips",
+      "has_synced": false,
+      "path": "select/12_Either_Way_I_Lose_Gladys_Knight_And_The_Pips.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Either Way",
+      "artist": "Boney James feat. Stokley",
+      "has_synced": false,
+      "path": "select/13_Either_Way_Boney_James_feat._Stokley.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Either Way",
+      "artist": "Boney James",
+      "has_synced": false,
+      "path": "select/14_Either_Way_Boney_James.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Either Way",
+      "artist": "Guster",
+      "has_synced": true,
+      "path": "select/15_Either_Way_Guster.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Either Way",
+      "artist": "Guster",
+      "has_synced": true,
+      "path": "select/16_Either_Way_Guster.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Either Way",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_Either_Way_IVE.txt"
+    }
+  ]
+}
